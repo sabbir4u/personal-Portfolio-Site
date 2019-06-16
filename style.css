@@ -1,0 +1,14 @@
+.green{
+    background-color:green;
+    height:200px;
+    width:27%;
+    position: relative;
+}
+.red{
+        background-color: red;
+        height: 130px;
+        width: 37%;
+        border-radius: 50%;
+        margin: 33px 118px;
+        position: absolute;
+}
